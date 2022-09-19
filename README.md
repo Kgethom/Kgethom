@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Kgethom
 - 👀 I’m interested in web development 
 - 🌱 I’m currently learning Angular & NestJS
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: kgethomaeyane@gmail.com
 
 <!---
